@@ -46,10 +46,13 @@ ul li {
 #online-oder {
     border-left: 7px solid tomato;
     padding: 10px;
+    box-shadow: 10px 10px 10px gray;
 }
 #limited-price {
     border-left: 7px solid gray;
     padding: 10px;
+    box-shadow: 10px 10px 10px gray;
+
 }
 footer p {
     text-align: center;
@@ -57,4 +60,5 @@ footer p {
     padding: 20px;
     background-color: bisque;
     font-weight: 700;
+    
 }
