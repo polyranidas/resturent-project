@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.container {
+    display: flex;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: antiquewhite;
+    /* background-image: url(imeges/transperent1.jpg);
+    background-repeat: no-repeat;
+    background-position: center; */
+}
+.header {
+    text-align: center;
+    background-color: burlywood;
+    padding: 20px;
+    color: aliceblue;
+}
+h1 {
+    color: chocolate;
+    font-weight: 700;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 20px;
+     
+}
+.half-width img {
+    width: 100%;
+}
+ul li {
+    list-style: none;
+}
+.half-width .food-two {
+    width: 100%;
+    height: 270px;
+}
+.unic-food {
+    margin-top: 20px;
+    margin-left: 35px;
+}
+#online-oder {
+    border-left: 7px solid tomato;
+    padding: 10px;
+}
+#limited-price {
+    border-left: 7px solid gray;
+    padding: 10px;
+}
+footer p {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: bisque;
+    font-weight: 700;
+}
